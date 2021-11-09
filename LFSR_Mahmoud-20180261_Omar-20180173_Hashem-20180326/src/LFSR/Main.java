@@ -25,7 +25,7 @@ public class Main {
 
         try {
 
-            File fileForStoreKey = new File("src/LFSR/txt Files/key.txt");
+            File fileForStoreKey = new File("LFSR_Mahmoud-20180261_Omar-20180173_Hashem-20180326/src/LFSR/txtFiles/key.txt");
             Scanner keyFileReader = new Scanner(fileForStoreKey);
 
             //read form the file
