@@ -25,7 +25,7 @@ public class Main {
 
         try {
 
-            File fileForStoreKey = new File("key.txt");
+            File fileForStoreKey = new File("/home/ozil/IdeaProjects/Information-and-Computer-Network-Security/TXT_files/key.txt");
             Scanner keyFileReader = new Scanner(fileForStoreKey);
 
             //read form the file
