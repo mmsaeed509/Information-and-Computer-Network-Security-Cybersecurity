@@ -3,8 +3,10 @@
 
 ![pexels-tima-miroshnichenko-5380589](https://user-images.githubusercontent.com/62524855/140998263-b1ebe31c-1f54-4f9d-9ee0-7da5afd00892.jpg)
 
-This Repo contains some of security algorithms implementations (very simple implementations)
+This Repo Contains Some Of Security Algorithms Implementations (very simple implementations)
 
-1 _ [LFSR](https://github.com/mmsaeed509/Information-and-Computer-Network-Security/tree/main/LFSR_Mahmoud-20180261_Omar-20180173_Hashem-20180326)
+
+### The Algorithms :-
+#### [LFSR](https://github.com/mmsaeed509/Information-and-Computer-Network-Security/tree/main/LFSR_Mahmoud-20180261_Omar-20180173_Hashem-20180326)
 
 
