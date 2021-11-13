@@ -7,7 +7,7 @@
 ### Materials
 ### Text Books :- 
 #### [underestaning cryptography.pdf](https://github.com/mmsaeed509/Information-and-Computer-Network-Security/files/7532505/underestaning.cryptography.pdf) 
-####[Understanding_Cryptography_Odd_Solutions.pdf](https://github.com/mmsaeed509/Information-and-Computer-Network-Security/files/7532512/Understanding_Cryptography_Odd_Solutions.pdf)
+#### [Understanding_Cryptography_Odd_Solutions.pdf](https://github.com/mmsaeed509/Information-and-Computer-Network-Security/files/7532512/Understanding_Cryptography_Odd_Solutions.pdf)
 
 #### Videos :- [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
 
