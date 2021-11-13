@@ -1,4 +1,3 @@
 ## Assignment Description 
 
-
-![IMG-20211031-WA0035](https://user-images.githubusercontent.com/62524855/141011881-586ad314-8b96-481a-ac34-8538334d2dae.jpg)
+![Screenshot_44](https://user-images.githubusercontent.com/62524855/141649547-d4545e2b-d77f-4fab-8645-edfb3ad9d1f1.png)
