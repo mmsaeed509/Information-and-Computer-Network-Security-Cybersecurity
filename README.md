@@ -19,6 +19,6 @@ This Repo Contains Some Of Security Algorithms Implementations (very simple impl
 
 
 ### Implemented Algorithms :-
-##### [LFSR](https://github.com/mmsaeed509/Information-and-Computer-Network-Security/tree/main/Assignments/LFSR)
+##### `LFSR`
 
 
