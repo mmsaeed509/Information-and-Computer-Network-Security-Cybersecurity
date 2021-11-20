@@ -1,6 +1,6 @@
  # Assignment Description
  
-```
+# ```
 Use DES to encrypt and decrypt a message with the following requirements for the DES:
 •Message will be entered in hexadecimal or decimal format you will have to convert it to binary.
 •Key will be entered in hexadecimal or decimal format you will have to convert it to binary.
