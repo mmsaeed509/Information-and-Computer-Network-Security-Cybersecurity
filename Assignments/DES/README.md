@@ -1,3 +1,4 @@
+ # Assignment Description
  
 ```
 Use DES to encrypt and decrypt a message with the following requirements for the DES:
