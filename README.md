@@ -19,6 +19,6 @@ This Repo Contains Some Of Security Algorithms Implementations (very simple impl
 
 
 ### Implemented Algorithms :-
-### `LFSR` `DES`
+### `LFSR` `DES` `AES`
 
 
