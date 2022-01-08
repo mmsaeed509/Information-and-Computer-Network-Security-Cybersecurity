@@ -1,0 +1,26 @@
+﻿p = 173, q = 149
+n = p * q = 173 * 149 = 25777
+φ(n) = (p - 1) * (q - 1) = 172 * 148 = 25456
+e = 3
+d = 16971
+message = TEST , T ->84 ,E ->69 ,S ->83 ,T -> 84 "ASCII"
+For m = T
+The encryption of m = 84 is c = 84^3 % 25777  = 25610
+The decryption of c = 25610 is m = 25610^16971 % 25777 = 84
+For m = E
+The encryption of m = 84 is c = 69^3 % 25777  = 19185
+The decryption of c = 19185 is m = 19185^16971 % 25777 = 69
+For m = S
+The encryption of m = 84 is c = 83^3 % 25777  = 4693
+The decryption of c = 4693 is m = 4693^16971 % 25777 = 83
+For m = T
+The encryption of m = 84 is c = 84^3 % 25777  = 25610
+The decryption of c = 25610 is m = 25610^16971 % 25777 = 84
+
+Message to encrypt: TEST 
+Message converted to ASCII code: 84,69,83,84
+Encrypted Message: 25610,19185,4693,25610 (CipherText)
+Message decrypted to ASCII code: 84,69,83,84
+Decrypted Message: TEST
+
+
