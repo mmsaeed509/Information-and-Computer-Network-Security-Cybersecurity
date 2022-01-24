@@ -1,3 +1,5 @@
+
+// to select an element from the document using its ID
 const captcha = document.querySelector(".captcha"),
 reloadBtn = document.querySelector(".reload-btn"),
 inputField = document.querySelector(".input-area input"),
