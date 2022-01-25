@@ -19,6 +19,8 @@ This Repo Contains Some Of Security Algorithms Implementations (very simple impl
 
 
 ### Implemented Algorithms :-
-### `LFSR` `DES` `AES`
+### `LFSR` `DES` `AES` `RSA`
 
+### Bonus Assignment
+### `Gimpy-r CAPTCHA` `reCAPTCHA` `bypass`
 
