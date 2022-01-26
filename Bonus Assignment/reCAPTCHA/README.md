@@ -5,3 +5,4 @@
 ![](reCAPTCHA.webp)
 
 # Create reCAPTCHA
+Create your [reCAPTCHA](https://www.google.com/recaptcha/admin/create) 
