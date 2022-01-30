@@ -2,8 +2,8 @@
 
 # Create :-
 
-- Image CAPTCHA (Google reCAPTCHA)
+- [x] Image CAPTCHA (Google reCAPTCHA)
 
-- Gimpy-r CAPTCHA
+- [x] Gimpy-r CAPTCHA
 
-- bypass CAPTCHA
+- [ ] bypass CAPTCHA
