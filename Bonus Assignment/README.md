@@ -6,4 +6,4 @@
 
 - [x] Gimpy-r CAPTCHA
 
-- [ ] bypass CAPTCHA
+- [x] bypass CAPTCHA
