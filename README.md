@@ -28,5 +28,5 @@ This Repo Contains Some Of Security Algorithms Implementations (very simple impl
 
 | [Mahmoud Mohamed](https://github.com/mmsaeed509) | [Abdallah Adham](https://github.com/0xSkorpioN) |
 |--------------------|:---------------------:|
-| <img align="left" width="125" height="125" src="/Images/Özil_2.png" /> | <img align="left" width="125" height="125" src="/Images/Özil_2.png" /> | 
+| <img align="left" width="125" height="125" src="/Images/ozil.png" /> | <img align="left" width="125" height="125" src="/Images/skorpioN.png" /> | 
 
