@@ -1,7 +1,7 @@
 <h1 align="center"> Diffie–Hellman (Bonus) </h1>
 
-### server
+### server (java)
 ![](./java/server.png)
 
-### client
+### client (java)
 ![](./java/client.png)
