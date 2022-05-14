@@ -111,16 +111,17 @@ def verify (receivedHashed, message):
 
 
 def main ( ):
-    p = int (input ("Enter a prime number (17, 19, 23, etc): "))
-    q = int (input ("Enter another prime number (Not one you entered above): "))
-    # p = 17
-    # q=23
+    #p = int (input ("Enter a prime number (17, 19, 23, etc): "))
+    #q = int (input ("Enter another prime number (Not one you entered above): "))
+     p = 17
+     q=23
 
     print ("Generating your public/private keypairs now . . .")
     public, private = generate_keypair (p, q)
 
     print ("Your public key is ", public, " and your private key is ", private)
-    message = input ("Enter a message to encrypt with your private key: ")
+    #message = input ("Enter a message to encrypt with your private key: ")
+    message = "test"
     print ("")
 
     hashed = hashFunction (message)
